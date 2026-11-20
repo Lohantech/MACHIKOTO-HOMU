@@ -4,10 +4,6 @@
 
 > *EN: Presentation of the MACHIKOTO Customizable Homepage*
 
-># Project Status Notice:
->**The Machikoto project is temporarily paused for an indefinite period due to personal reasons, allowing me to focus better on my personal projects, with the possibility of evolving Machikoto further down the road. This decision is unrelated to the project itself, which has received tremendous support and love from Japanese users. Thank you for your understanding. Please note that the MACHIKOTO homepage and its help page will remain online and accessible indefinitely; however, they will not receive updates except in exceptional cases.**
-
-
 # THE GOAL OF THE PROJECT:
 Originally named WAHOO! JAPAN, the project was renamed MACHIKOTO to avoid any confusion with the brand and services of Yahoo! JAPAN (a registered trademark of SOFTBANK). Its goal is to provide Japanese and global users with a homepage they can fully customize to their liking, bringing life and meaning to an experience where existing choices are often rigid or limited to pre-installed fonts. By setting MACHIKOTO as your homepage, you can easily access your added favorites, your custom background, and a dynamic seasonal theme. This theme changes the color scheme of certain elements and displays a falling emoji animation matching the current season. Finally, the main advantage of this project is its consistency: you can maintain the exact same custom homepage setup across every device and browser for a familiar feel, or configure them individually to look completely different.
 ![Project](READMEp/project.png)
